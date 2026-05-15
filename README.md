@@ -1,123 +1,74 @@
-<<<<<<< HEAD
-# 🌾 Budakattu Sante – Android App
+Budakattu Sante – Android App
 
-A modern Android application built to support tribal farmers and local markets. It helps you manage products, pre orders, supply tracking, and transactions with a simple and reliable system.
+Budakattu Sante is a modern Android application designed to support tribal farmers, artisans, and local market systems. It enables direct selling of handmade products, forest produce, and traditional items to customers without middlemen, helping improve income and promote sustainable rural development.
 
----
+Features
+Secure user onboarding and login system
+Leader dashboard for market management
+Product listing with detailed information
+Pre-order management system
+Customer management module
+Supply tracking and logging
+Transaction and payment records
+MSP (Minimum Support Price) information display
+User profile and settings management
+Offline-first storage using Room Database
+Background synchronization using WorkManager
 
-## 🚀 Features
+Tech Stack
+Language: Kotlin
+UI: XML Layouts with Material Design
+Architecture: MVVM + Repository Pattern
+Database: Room (DAO-based local storage)
+Navigation: Jetpack Navigation Component
+Background Tasks: WorkManager
+Dependency Injection: Hilt
 
-• 🔐 User onboarding and login
-• 📊 Leader dashboard for management
-• 📦 Product listing and details
-• 🛒 Pre order management
-• 👥 Customer list management
-• 📋 Supply log tracking
-• 💰 Transaction management
-• 📉 MSP information display
-• 👤 Profile and settings management
-• 🗂️ Offline storage using Room Database
-• 🔄 Background sync using WorkManager
-
----
-
-## 🛠️ Tech Stack
-
-• Language: Kotlin
-• UI: XML Layouts, Material Design
-• Architecture: MVVM, Repository Pattern
-• Database: Room with DAO
-• Navigation: Jetpack Navigation Component
-• Background Tasks: WorkManager
-• Dependency Injection: Hilt
-
----
-
-## 📂 Project Structure
+Project Structure
 
 com.example.budakattu_sante
 
-data/ → Local database and repository
+data/ → Local database, DAO, repository
 di/ → Dependency injection modules
-ui/ → Fragments, adapters, viewmodels
-util/ → Helper classes
-worker/ → Background tasks
+ui/ → Fragments, adapters, ViewModels
+util/ → Helper and utility classes
+worker/ → Background sync tasks
 
----
+Setup Instructions
+1. Clone the Repository
+git clone https://github.com/malikarshid01430-byte/Budakattu-Sante.git
 
-## ⚙️ Setup Instructions
+2. Open in Android Studio
+Open Android Studio
+Click Open Project
+Select the extracted folder
+Wait for Gradle sync to complete
+Click Run to launch the app
+Purpose
 
-### Clone the Repository
+This project aims to digitally empower tribal communities by connecting them directly with customers, reducing dependency on middlemen, and promoting fair trade, cultural preservation, and sustainable livelihoods.
 
-git clone [https://github.com/malikarshid01430-byte/Budakattu-Sante.git](https://github.com/malikarshid01430-byte/Budakattu-Sante.git)
-
----
-
-### Or Download ZIP
-
-1. Go to the repository on GitHub
-2. Click Code
-3. Click Download ZIP
-4. Locate the downloaded ZIP file
-5. Right click the file
-6. Select Extract Here or Extract to folder
-7. Open the extracted folder
-
----
-
-### Import into Android Studio
-
-1. Open Android Studio
-2. Click Open
-3. Select the extracted project folder
-4. Wait for Gradle sync to complete
-5. Click Run to launch the app
-
----
-
-## 🎯 Purpose
-
-This app helps you manage tribal market operations digitally. You can track supply, handle transactions, and improve decision making with organized data.
-
----
-
-## 🔮 Future Improvements
-
-• Firebase integration
-• Online payment support
-• Real time notifications
-• Admin web dashboard
-• Multi language support
-• Cloud synchronization
-• Analytics and reporting
-
----
-
-## 🤝 Contributing
-
+Future Improvements
+Firebase integration for cloud sync
+Online payment gateway support
+Real-time notifications
+Admin web dashboard
+Multi-language support for tribal regions
+Advanced analytics and reporting
+Contributing
 Fork the repository
-Create a new branch
-Make changes and commit
+Create a feature branch
+Commit your changes
 Push and create a pull request
 
----
+License
 
-## 📄 License
+This project is developed for academic and internship purposes.
 
-This project is developed for academic and internship purposes
-
----
-
-## 👨‍💻 Author
+Developer
 
 Developed by Arshid Ahmad Malik
 
----
+Support
 
-## ⭐ Support
-
-If you find this project useful, give it a star
-=======
-# Budakattu---Santhe
-Budakattu Santhe is a market initiative for tribal communities to sell their handmade products, forest produce, and traditional items directly to customers without middlemen. It helps improve their income, preserve tribal culture and skills, and promote organic and eco-friendly goods while supporting rural livelihood development.
->>>>>>> a73768595662897e773e56f4e1f3364eb39692e0
+If you find this project useful, consider giving it a star on GitHub.
