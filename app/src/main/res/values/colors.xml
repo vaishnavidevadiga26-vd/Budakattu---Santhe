@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="forest_green">#2E7D32</color>
+    <color name="forest_green_light">#E8F5E9</color>
+    <color name="earth_brown">#5D4037</color>
+    <color name="earth_brown_light">#EFEBE9</color>
+    <color name="warm_cream">#FAF9F6</color>
+    <color name="amber_honey">#F57C00</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#5F6368</color>
+    <color name="shimmer_bg">#E0E0E0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

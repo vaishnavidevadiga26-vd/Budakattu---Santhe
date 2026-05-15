@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ಬುಡಕಟ್ಟು ಸಂತೆ</string>
+    <string name="browse_forest_products">ಅರಣ್ಯ ಉತ್ಪನ್ನಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ</string>
+    <string name="pre_order_before_harvest">ಕೊಯ್ಲಿಗೆ ಮೊದಲು ಮುಂಗಡವಾಗಿ ಆರ್ಡರ್ ಮಾಡಿ</string>
+    <string name="support_tribal_families">ಬುಡಕಟ್ಟು ಕುಟುಂಬಗಳಿಗೆ ನೇರವಾಗಿ ಬೆಂಬಲ ನೀಡಿ</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="home">ಹೋಮ್</string>
+    <string name="pre_orders">ಮುಂಗಡ ಆರ್ಡರ್‌ಗಳು</string>
+    <string name="supply_log">ಪೂರೈಕೆ ಲಾಗ್</string>
+    <string name="msp_info">ಎಂಎಸ್ಪಿ ಮಾಹಿತಿ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+</resources>

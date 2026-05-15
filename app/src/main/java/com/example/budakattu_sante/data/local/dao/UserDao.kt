@@ -1,0 +1,16 @@
+package com.example.budakattu_sante.data.local.dao
+
+import androidx.room.*
+import com.example.budakattu_sante.data.local.entity.User
+
+@Dao
+interface UserDao {
+    @Query("SELECT * FROM users LIMIT 1")
+    suspend fun getCurrentUser(): User?
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertUser(user: User)
+
+    @Query("DELETE FROM users")
+    suspend fun clearUser()
+}

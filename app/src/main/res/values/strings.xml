@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Budakattu Sante</string>
+    <string name="browse_forest_products">Browse Forest Products</string>
+    <string name="pre_order_before_harvest">Pre-Order Before Harvest</string>
+    <string name="support_tribal_families">Support Tribal Families Directly</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="otp">OTP</string>
+    <string name="verify">Verify</string>
+    <string name="home">Home</string>
+    <string name="pre_orders">Pre-Orders</string>
+    <string name="supply_log">Supply Log</string>
+    <string name="msp_info">MSP Info</string>
+    <string name="profile">Profile</string>
+    <string name="add_to_pre_order">Add to Pre-Order</string>
+    <string name="stock_limit_warning">Only %1$d units available. Adjust quantity?</string>
+    <string name="supplier_label">By: %1$s</string>
+    <string name="in_stock_label">In Stock: %1$d</string>
+</resources>

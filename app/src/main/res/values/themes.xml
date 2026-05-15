@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BudakattuSante" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/forest_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/forest_green_light</item>
+        <item name="colorSecondary">@color/earth_brown</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/earth_brown_light</item>
+        <item name="colorTertiary">@color/amber_honey</item>
+        <item name="colorOnTertiary">@color/white</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/forest_green</item>
+        <item name="android:windowBackground">@color/warm_cream</item>
+
+        <!-- Component Styles -->
+        <item name="materialCardViewStyle">@style/Widget.Budakattu.Card</item>
+        <item name="materialButtonStyle">@style/Widget.Budakattu.Button</item>
+    </style>
+
+    <style name="Widget.Budakattu.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+    </style>
+
+    <style name="Widget.Budakattu.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">12dp</item>
+    </style>
+</resources>
