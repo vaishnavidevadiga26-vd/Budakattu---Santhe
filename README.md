@@ -67,7 +67,7 @@ This project is developed for academic and internship purposes.
 
 Developer:
 
-Developed by Arshid Ahmad Malik
+Developed by Vaishnavi
 
 Support:
 
