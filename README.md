@@ -36,7 +36,7 @@ worker/ → Background sync tasks
 
 Setup Instructions:
 1. Clone the Repository
-git clone https://github.com/malikarshid01430-byte/Budakattu-Sante.git
+git clone https://github.com/vaishnavidevadiga26-vd/Budakattu-Sante.git
 
 2. Open in Android Studio:
 Open Android Studio
