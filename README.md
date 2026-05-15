@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 Budakattu Sante – Android App
 
 A modern Android application built to support tribal farmers and local markets. It helps you manage products, pre orders, supply tracking, and transactions with a simple and reliable system.
@@ -116,3 +117,7 @@ Developed by Arshid Ahmad Malik
 ## ⭐ Support
 
 If you find this project useful, give it a star
+=======
+# Budakattu---Santhe
+Budakattu Santhe is a market initiative for tribal communities to sell their handmade products, forest produce, and traditional items directly to customers without middlemen. It helps improve their income, preserve tribal culture and skills, and promote organic and eco-friendly goods while supporting rural livelihood development.
+>>>>>>> a73768595662897e773e56f4e1f3364eb39692e0
